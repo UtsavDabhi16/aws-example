@@ -9,8 +9,8 @@ import com.amazonaws.services.s3.model.Bucket;
 public class Coco {
     public static void main(String[] args) {
         // Replace these values with your AWS access key and secret key
-        String accessKey = "AKIA4MTWMOVSXURQGQ5I";
-        String secretKey = "7WL0IralCob3rT/V/93iMVdHi96zYvgXfJfKK0b1";
+        String accessKey = "";
+        String secretKey = "";
 
         // Set AWS region
         String region = "us-east-1";
